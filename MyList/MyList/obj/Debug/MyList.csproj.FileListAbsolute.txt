@@ -1,0 +1,14 @@
+D:\MyList\MyList\bin\Debug\MyList.exe.config
+D:\MyList\MyList\bin\Debug\MyList.exe
+D:\MyList\MyList\bin\Debug\MyList.pdb
+D:\MyList\MyList\obj\Debug\MyList.csprojResolveAssemblyReference.cache
+D:\MyList\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+D:\MyList\MyList\obj\Debug\MyList.exe
+D:\MyList\MyList\obj\Debug\MyList.pdb
+E:\MyList\MyList\bin\Debug\MyList.exe.config
+E:\MyList\MyList\bin\Debug\MyList.exe
+E:\MyList\MyList\bin\Debug\MyList.pdb
+E:\MyList\MyList\obj\Debug\MyList.csprojAssemblyReference.cache
+E:\MyList\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+E:\MyList\MyList\obj\Debug\MyList.exe
+E:\MyList\MyList\obj\Debug\MyList.pdb
